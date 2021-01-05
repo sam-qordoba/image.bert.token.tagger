@@ -1,7 +1,11 @@
 # image.bert.token.tagger
+
 Base image for bert-token-tagger - based services
 
-### Pre-installed dependencies dependencies:
+[DockerHub](https://hub.docker.com/repository/docker/qsam/bert_token_tagger)
+
+### Pre-installed dependencies dependencies
+
 - transformers 4.1.1
 - torch 1.7.1
 - en-core-web-sm 2.3.1
